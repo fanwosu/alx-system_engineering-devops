@@ -8,4 +8,5 @@
 8-James_Bond is a script that sets the permission to the file hello
 9-John_Doe is a script that sets the mode of the file hello to this:-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello. The file hello will be in the working directory. You are not allowed to use commas for this script
 10-mirrow_permissions is a script that sets the mode of the file hello the same as ollehs mode
-11-directories_permissions is a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+11-directories_permissions is a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+12-directory_permissions is a a script that creates a directory called my_dir with permissions 751 in the working directory..
