@@ -14,3 +14,4 @@ This is the readme file for 0x03-shell_variables_expansions
 100-decimal_to_hexadecimmal is a script that converts a number from base 10 to base 16
 101-rots is a script that encodes and decodes text using the rot13 encryption. Assume ASCII
 102-odd is a script that prints every other line starting from the first line
+103-water_and_stir is a script that adds the two numbers stored in the environment variables WATER and STIR and prints the result
